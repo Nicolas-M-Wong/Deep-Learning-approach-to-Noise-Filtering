@@ -16,7 +16,7 @@ This project has been developed as part of a PMI (Master’s project for IPSA en
 
 Result obtained using the python code:
 
-This first example is based on the song an europpean herring gull (Goéland Argenté in French). This song is very specific and usually repeated multiple time few seconds apart from each other. It has a very clear pattern which makes it relatively easy for our model to be trained with it. Compared to the next example, the frequency amplitude is low and the compression rate achievable with acceptable result is higher degree of denoising.
+This first example is based on the song of an europpean herring gull (Goéland Argenté in French). This song is very specific and usually repeated multiple time few seconds apart from each other. It has a very clear pattern which makes it relatively easy for our model to be trained with it. Compared to the next example, the frequency amplitude is low and the compression rate achievable with acceptable result is higher degree of denoising.
 
 <div align="center">
    
@@ -28,7 +28,7 @@ This first example is based on the song an europpean herring gull (Goéland Arge
 
 American Fish crow
 
-With the american fish crow, the result where less impressive in term of denoising. This may be a result of the wider band of frequency contained in the song compared to european herring gull. This lead to be forced to keep only one maxpooling layer to keep a recognisable sound of the fish crow in the reconstructed extract
+With the american fish crow (Corneille des Rivages in French), the result where less impressive in term of denoising. This may be a result of the wider band of frequency contained in the song compared to european herring gull. This lead to be forced to keep only one maxpooling layer to keep a recognisable sound of the fish crow in the reconstructed extract
 
 <div align="center">
    
