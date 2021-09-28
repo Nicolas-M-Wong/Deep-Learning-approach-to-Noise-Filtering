@@ -26,6 +26,8 @@ This first example is based on the song an europpean herring gull (Goéland Arge
 
 American Fish crow
 
+With the american fish crow, the result where less impressive in term of denoising. This may be a result of the wider band of frequency contained in the song compared to european herring gull. This lead to be forced to keep only one maxpooling layer to keep a recognisable sound of the fish crow in the reconstructed extract
+
 <div align="center">
    
 | Original Extract  |  Reconstructed after 1 maxpooling layers |
