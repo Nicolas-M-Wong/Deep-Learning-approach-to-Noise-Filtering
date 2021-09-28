@@ -7,3 +7,5 @@ Our DAE is based on a convolutional network (CNN) which analyse Mel-Spectrogram 
 The dataset is using sound from the Xeno-Canto project which collaborative program that collect birdsong recording and that are then identify by the community. Our initial data base is using only one extract that is then put inside a random gaussian noise and the position of the sound is random. However, this random position should not bother the network as it is based on CNN which are time invariant.
 
 This project has been developed as part of PMI (Master’s project for IPSA engineering School in Paris) with Simon Cocagne, Valentin Forite and my self Nicolas Wong. We would like also to thanks Mr Omar Al Hammal for his tutoring and help through out this project. 
+
+*The code is contains comments in French, a following version will include the translated version of these comments in English*
