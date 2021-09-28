@@ -30,5 +30,5 @@ American Fish crow
    
 | Original Extract  |  Reconstructed after 1 maxpooling layers |
 | ------------- | ------------- |
-| <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/Fish%20crow%20-%201%20Maxpooling%20Layer%20-%20Original%20Extract.pngg" width="400"/> | <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/Fish%20crow%20-%201%20Maxpooling%20Layer%20-%20Reconstructed%20Extract.png" width="400"/> |
+| <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/Fish%20crow%20-%201%20Maxpooling%20Layer%20-%20Original%20Extract.png" width="400"/> | <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/Fish%20crow%20-%201%20Maxpooling%20Layer%20-%20Reconstructed%20Extract.png" width="400"/> |
    
