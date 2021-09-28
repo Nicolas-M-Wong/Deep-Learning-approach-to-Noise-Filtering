@@ -11,3 +11,14 @@ This project has been developed as part of PMI (Master’s project for IPSA engi
 *The code contains comments in French, a following version will include the translated version of these comments in English.*
 
 *The full report with result explanation and research of the state of the art is also in French but here are some qucik example of expected result*
+
+Result obtained using the python code:
+
+This first example is based on the song an europpean herring gull (Goéland Argenté in French). This song is very specific and usually repeated multiple time few seconds apart from each other. It has a very clear pattern which makes it relatively easy for our model to be trained with it. Compared to the next example, the frequency amplitude is low and the compression rate achievable with acceptable result is higher degree of denoising.
+
+<div align="center">
+   
+| Original Extract  |  Reconstructed after 2 maxpooling layers |
+| ------------- | ------------- |
+| <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Original%20extract.png" width="400"/> | <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Reconstructed%20Extract.png" width="400"/> 
+| Time: 153min  | Time: 24min  | Time: 10 sec  |
