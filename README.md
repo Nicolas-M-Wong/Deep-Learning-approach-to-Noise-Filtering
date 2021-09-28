@@ -8,4 +8,4 @@ The dataset is using sound from the Xeno-Canto project which collaborative progr
 
 This project has been developed as part of PMI (Master’s project for IPSA engineering School in Paris) with Simon Cocagne, Valentin Forite and my self Nicolas Wong. We would like also to thanks Mr Omar Al Hammal for his tutoring and help through out this project. 
 
-*The code is contains comments in French, a following version will include the translated version of these comments in English*
+*The code contains comments in French, a following version will include the translated version of these comments in English*
