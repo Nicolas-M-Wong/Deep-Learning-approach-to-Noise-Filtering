@@ -12,7 +12,7 @@ This project has been developed as part of a PMI (Master’s project for IPSA en
 
 *The code contains comments in French, a following version will include the translated version of these comments in English.*
 
-*The full report with result explanation and research of the state of the art is also in French but here are some qucik example of expected result*
+*The full report with result explanation and research of the state of the art is also in French but here are some qucik example of the expected result*
 
 Result obtained using the python code:
 
