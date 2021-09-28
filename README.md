@@ -1,4 +1,4 @@
-# Deep-Learning-approach-to-Noise-Filtering
+# Deep Learning approach to Noise Filtering
 
 The aim of this program is to develop a deep autoencoder (DAE) for denoising bird song to improve the quality of existing sound and reduce manpower needed to analyse in situ continuous recording which are becoming more and more common in ornithology. This solution is also an answer to potential low reliability in automated bird song recognition based on machine learning based algorithm.
 
