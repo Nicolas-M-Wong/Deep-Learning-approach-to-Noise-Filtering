@@ -20,5 +20,11 @@ This first example is based on the song an europpean herring gull (Goéland Arge
    
 | Original Extract  |  Reconstructed after 2 maxpooling layers |
 | ------------- | ------------- |
-| <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Original%20extract.png" width="400"/> | <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Reconstructed%20Extract.png" width="400"/> 
-| Time: 153min  | Time: 24min  | Time: 10 sec  |
+| <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Original%20extract.png" width="400"/> | <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Reconstructed%20Extract.png" width="400"/> |
+   
+ American Fish crow
+   
+| Original Extract  |  Reconstructed after 1 maxpooling layers |
+| ------------- | ------------- |
+| <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Original%20extract.png" width="400"/> | <img src="https://github.com/Nicolas-M-Wong/Deep-Learning-approach-to-Noise-Filtering/blob/main/Result/European%20herring%20gull%20-%202%20Maxpooling%20Layer%20-%20Reconstructed%20Extract.png" width="400"/> |
+   
