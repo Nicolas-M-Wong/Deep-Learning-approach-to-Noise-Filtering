@@ -28,7 +28,7 @@ This first example is based on the song of an europpean herring gull (Goéland A
 
 American Fish crow
 
-With the american fish crow (Corneille des Rivages in French), the result were less impressive in term of denoising. This may be a result of the wider band of frequency contained in the song compared to european herring gull. This lead to only one maxpooling layer to keep a recognisable sound of the fish crow in the reconstructed extract. Like the herring gull, this is a specific sound that is repeated multiple time afterwards when the bird is singing in a real world recording.
+With the american fish crow (Corneille des Rivages in French), the result were less impressive in term of denoising. This may be a result of the wider band of frequency contained in the song compared to european herring gull. This lead to only one maxpooling layer to keep a recognisable sound of the fish crow in the reconstructed extract. Like the herring gull, this is a specific sound that is repeated multiple time when the bird is singing in a real world recording.
 
 <div align="center">
    
